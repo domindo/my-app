@@ -7,7 +7,7 @@ import picture6 from './6.jpg';
 import picture7 from './7.jpg';
 import picture8 from './8.jpg';
 import picture9 from './9.jpg';
-import thumnail from './thumnail.jpg';
+
 export {
     picture1,
     picture2,
@@ -18,5 +18,4 @@ export {
     picture7,
     picture8,
     picture9,
-    thumnail
 }
